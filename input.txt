@@ -1,0 +1,77 @@
+{
+    "quality_of_sleep": 4.0,
+    "sleep_duration": 5.9,
+    "stress_level": 8.0,
+    "physical_activity_level": 30
+}
+
+{
+    "quality_of_sleep": 6.0,
+    "sleep_duration": 6.3,
+    "stress_level": 7.0,
+    "physical_activity_level": 40
+}
+
+
+{
+    "quality_of_sleep": 5.0,
+    "sleep_duration": 6.5,
+    "stress_level": 7.0,
+    "physical_activity_level": 50
+}
+
+
+{
+    "quality_of_sleep": 5.0,
+    "sleep_duration": 6.4,
+    "stress_level": 7.0,
+    "physical_activity_level": 40
+}
+
+
+{
+    "quality_of_sleep": 5.0,
+    "sleep_duration": 6.4,
+    "stress_level": 7.0,
+    "physical_activity_level": 35
+}
+
+
+{
+    "quality_of_sleep": 7.0,
+    "sleep_duration": 7.8,
+    "stress_level": 6,
+    "physical_activity_level": 75
+}
+
+
+{
+    "quality_of_sleep": 8.0,
+    "sleep_duration": 7.9,
+    "stress_level": 4,
+    "physical_activity_level": 85
+}
+
+
+{
+    "quality_of_sleep": 8.0,
+    "sleep_duration": 7.6,
+    "stress_level": 5,
+    "physical_activity_level": 90
+}
+
+
+{
+    "quality_of_sleep": 9.0,
+    "sleep_duration": 8.4,
+    "stress_level": 3.0,
+    "physical_activity_level": 45
+}
+
+
+{
+    "quality_of_sleep": 8.0,
+    "sleep_duration": 8.1,
+    "stress_level": 3.0,
+    "physical_activity_level": 75
+}
